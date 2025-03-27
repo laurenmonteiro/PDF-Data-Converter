@@ -1,5 +1,5 @@
 # PDF Data Converter
-This program scrapes a given set of PDF files and returns a CSV file that aggregates the data and formats it to existing specifications. 
+This program scrapes a given set of PDF files and returns a CSV file composed of cleaned data that has been aggregated and formatted to existing specifications. 
 
 # How it Works
 <ol>
